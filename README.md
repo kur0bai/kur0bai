@@ -9,7 +9,7 @@ I like to constantly explore and research technology and new practices, exchange
 - :clapper: I enjoy good cinema and literature, to spend time.
 - :art: Sometimes I like to dabble in UI Design.
 
-[Porfolio](https://jesusdsg.github.io/)  &nbsp; &nbsp;  [Dribbble](https://dribbble.com/jesusdsg) &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/jesus-salcedo-8a8108104/)
+[Porfolio](https://jesusdsg.github.io/)  &nbsp; &nbsp;  [Dribbble](https://dribbble.com/jesusdsg) &nbsp; &nbsp; [Linkedin](www.linkedin.com/in/jesusdsalcedo)
 <!--
 **jesusdsg/jesusdsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
