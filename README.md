@@ -1,10 +1,10 @@
 ## :v: Hi there, I'm Jesus!
 
-I am a junior Software Developer and Graphic Designer from Colombia, also passionate about art and video games. I'm working as a frontend developer, but I also like to know what's going on behind the scenes. :nerd_face:	 :rocket:
+I am Software Developer and Graphic Designer from Colombia, also passionate about art and video games. I'm working as fullstack developer, I enjoy the frontend but I also like to know what's going on behind the scenes. :nerd_face:	 :rocket:
 
-I like to constantly explore and research technology and new practices, exchange knowledge in developer communities, and learn more and more. Always open to new ideas.
+I like to constantly explore and research technology and new practices, exchange knowledge in developer communities, and learn more and more with the best disposition and always open to new ideas.
 
-- :computer: I like use React, python, MySQL, mongo, and node for coding, most of the time.
+- :computer: I like use React, Node, Postgres, Mongo and Python for coding, most of the time.
 - :man_artist: I'm a lover of art, I am Illustrator, also a tattoo artist and piercing apprentice.
 - :clapper: I enjoy good cinema and literature, to spend time.
 - :art: Sometimes I like to dabble in UI Design.
