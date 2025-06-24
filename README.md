@@ -4,17 +4,6 @@ I'm a **Backend-focused Software Developer** from Colombia with a strong interes
 I’m currently working as a fullstack developer, but I thrive when building robust backend architectures, exploring security, and integrating AI-powered features into real-world systems.
 
 ---
-
-### 🧠 What I Do
-
-- 🐍 Build scalable systems using **Python** with frameworks like **FastAPI** and **Django**
-- 🧠 Develop and integrate AI models using **TensorFlow**, **OpenAI APIs**, and **LangChain**
-- 🛡️ Learning and practicing **Offensive Security**, exploring **pentesting**, **DevSecOps**, and **ethical hacking**
-- ⚙️ Create modular architectures: **Headless CMS**, microservices, and containerized deployments
-- 📈 Optimize APIs and workflows for performance, security, and maintainability
-
----
-
 ### 💻 Technologies I Work With
 
 - **Languages**: Python, JavaScript/TypeScript, SQL, Bash
@@ -22,7 +11,7 @@ I’m currently working as a fullstack developer, but I thrive when building rob
 - **AI/ML**: TensorFlow, OpenAI, LangChain
 - **Databases**: PostgreSQL, MongoDB, SQLite
 - **Tools**: Docker, Git, NGINX, Linux, Postman
-- **Security**: Burp Suite, Nmap, Wireshark, Hack The Box, TryHackMe
+- **Security**: Burp Suite, Nmap, TryHackMe
 
 ---
 
