@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Jesus
 
 I'm a **Software Developer** from Colombia with a strong interest in **Python**, **AI**, **cybersecurity**, and **modern web technologies**.  
-I’m currently working as a fullstack developer, but I thrive when building robust backend architectures, exploring security, and integrating AI-powered features into real-world systems.
+I’m currently working as a fullstack developer, but I thrive when building solutions, exploring security, and integrating AI-powered features into real-world systems.
 
 ---
 ### 💻 Technologies I Work With
