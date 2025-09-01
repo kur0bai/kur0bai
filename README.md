@@ -35,7 +35,7 @@ I’m currently working as a fullstack developer, but I thrive when building sol
 
 ### 📡 Connect With Me
 
-- [🌐 Portfolio](https://kur0bai.github.io/)
-- [💼 LinkedIn](https://www.linkedin.com/in/jesusdsalcedo)
+<!--- [🌐 Portfolio](https://kur0bai.github.io/) -->
+- [💼 LinkedIn](https://www.linkedin.com/in/jesussdo)
 
 ---
