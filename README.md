@@ -32,10 +32,4 @@ I’m currently working as a fullstack developer, but I thrive when building sol
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kur0bai&layout=compact&theme=radical" />-->
 </p>
 
-
-### 📡 Connect With Me
-
-<!--- [🌐 Portfolio](https://kur0bai.github.io/) -->
-- [💼 LinkedIn](https://www.linkedin.com/in/jesussdo)
-
 ---
