@@ -26,10 +26,5 @@ I’m currently working as a fullstack developer, but I thrive when building sol
 - **AI/ML**: TensorFlow, OpenAI, LangChain
 - **Databases**: PostgreSQL, MongoDB, SQLite
 - **Tools**: Docker, Git, NGINX, Linux, Postman
----
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kur0bai&show_icons=true&theme=radical&rank_icon=github" />
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kur0bai&layout=compact&theme=radical" />-->
-</p>
 
 ---
