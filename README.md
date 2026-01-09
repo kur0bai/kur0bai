@@ -1,7 +1,11 @@
 ## 👋 Hey, I'm Jesus
 
-I'm a **Software Developer** from Colombia with a strong interest in **Python**, **AI**, **cybersecurity**, and **modern web technologies**.  
-I’m currently working as a fullstack developer, but I thrive when building solutions, exploring security, and integrating AI-powered features into real-world systems.
+Software Engineer and Cybersecurity Practitioner (eJPT certified) with 5 years building and hardening web/mobile applications (React Native, Node.js, Django, NestJS). Interested in discovering and remediating OWASP Top 10 through internal vulnerability assessments, secure development lifecycle, and DevSecOps practices. Actively transitioning into Web Penetration Testing and Application Security.
+
+<p align="left">
+  <a href="https://github.com/kur0bai"><img title="GitHub" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kur0bai"></a>
+<a href="https://tryhackme.com/p/kur0bai"><img title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=lightred&link=https://tryhackme.com/p/kur0bai"></a>
+</p>
 
 ---
 ### 💻 Technologies
