@@ -7,23 +7,12 @@ Software Engineer and Cybersecurity Practitioner (eJPT certified) with 5 years b
 <a href="https://tryhackme.com/p/kur0bai"><img title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=lightred&link=https://tryhackme.com/p/kur0bai"></a>
 </p>
 
-<div align="left" style="display:inline-flex;gap:1rem">
-<img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3"
-	alt="eJPT"
-	width="45"
-	height="40" />
-
-<img src="https://cyberwarfare.live/wp-content/uploads/2025/11/WEBRTA-100x100.webp"
-	alt="Web-RTA"
-	width="45"
-	height="45" />	
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="45" height="40"/>
+  <img src="https://cyberwarfare.live/wp-content/uploads/2025/11/WEBRTA-100x100.webp" width="45" height="45"/>
+  <img src="https://cyberwarfare.live/wp-content/uploads/2025/11/C3SA.webp" width="45" height="45"/>
 </div>
 
-<img src="https://cyberwarfare.live/wp-content/uploads/2025/11/C3SA.webp"
-	alt="Web-RTA"
-	width="45"
-	height="45" />	
-</div>
 
 
 
