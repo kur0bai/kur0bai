@@ -7,6 +7,12 @@ Software Engineer and Cybersecurity Practitioner (eJPT certified) with 5 years b
 <a href="https://tryhackme.com/p/kur0bai"><img title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=lightred&link=https://tryhackme.com/p/kur0bai"></a>
 </p>
 
+<img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3"
+	alt="eJPT"
+	width="45"
+	height="40"
+	style="float: center; margin-right: 2px;" />
+
 ---
 ### 💻 Technologies
 
