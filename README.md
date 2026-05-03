@@ -7,11 +7,13 @@ Software Engineer and Cybersecurity Practitioner (eJPT certified) with 5 years b
 <a href="https://tryhackme.com/p/kur0bai"><img title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=lightred&link=https://tryhackme.com/p/kur0bai"></a>
 </p>
 
-<div style="display:flex; justify-content:space-around; align-items:center;">
-  <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="45" height="40"/>
-  <img src="https://cyberwarfare.live/wp-content/uploads/2025/11/WEBRTA-100x100.webp" width="45" height="45"/>
-  <img src="https://cyberwarfare.live/wp-content/uploads/2025/11/C3SA.webp" width="45" height="45"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="45"/></td>
+    <td><img src="https://cwlabsplatform.blob.core.windows.net/images/Web-RTA-Logo-1080x1080.png" width="45"/></td>
+    <td><img src="https://cwlabsplatform.blob.core.windows.net/images/C3SA-Logo.webp" width="45"/></td>
+  </tr>
+</table>
 
 
 
