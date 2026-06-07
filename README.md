@@ -4,6 +4,7 @@ Software Engineer and Cybersecurity Practitioner (eJPT certified) with 5 years b
 
 <p align="left">
   <a href="https://github.com/kur0bai"><img title="GitHub" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kur0bai"></a>
+  <a href="https://app.hackthebox.com/public/users/2287447" rel="nofollow"><img title="HTB" src="https://img.shields.io/badge/-HackTheBox-darkgreen?style=for-the-badge&amp;logo=hack-the-box&amp;logoColor=lightgreen&amp;link=https://app.hackthebox.com/public/users/337020" style="max-width: 100%;"></a>
 <a href="https://tryhackme.com/p/kur0bai"><img title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=lightred&link=https://tryhackme.com/p/kur0bai"></a>
 </p>
 
