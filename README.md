@@ -1,11 +1,13 @@
-## 👋 Hey, I'm Jesus
+## I'm Jesus
 
 Software Engineer and Cybersecurity Practitioner (eJPT certified) with 5 years building and hardening web/mobile applications (React Native, Node.js, Django, NestJS). Interested in discovering and remediating OWASP Top 10 through internal vulnerability assessments, secure development lifecycle, and DevSecOps practices. Actively transitioning into Web Penetration Testing and Application Security.
 
 <p align="left">
-  <a href="https://github.com/kur0bai"><img title="GitHub" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kur0bai"></a>
+  <!--<a href="https://github.com/kur0bai"><img title="GitHub" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kur0bai"></a>-->
   <a href="https://profile.hackthebox.com/profile/019d2bcb-05d3-7201-a502-5f502e683a79" rel="nofollow"><img title="HTB" src="https://img.shields.io/badge/-HackTheBox-darkgreen?style=for-the-badge&amp;logo=hack-the-box&amp;logoColor=lightgreen&amp;link=https://profile.hackthebox.com/profile/019d2bcb-05d3-7201-a502-5f502e683a79" style="max-width: 100%;"></a>
 <a href="https://tryhackme.com/p/kur0bai"><img title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-darkred?style=for-the-badge&logo=tryhackme&logoColor=lightred&link=https://tryhackme.com/p/kur0bai"></a>
+  <a href="https://tryhackme.com/p/kur0bai"><img title="Medium" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=lightred&link=https://medium.com/@kur0bai"></a>
+<!---->
 </p>
 
 <table>
@@ -17,7 +19,12 @@ Software Engineer and Cybersecurity Practitioner (eJPT certified) with 5 years b
 </table>
 
 
+---
+### 🐞 Security Research
 
+<p align="left">
+  <a href="https://tryhackme.com/p/kur0bai"><img title="Intigriti" src="https://img.shields.io/badge/-Intigriti-darkblue?style=for-the-badge&logo=intigriti&logoColor=lightred&link=https://app.intigriti.com/profile/kur0bai"></a>
+</p>
 
 ---
 ### 💻 Technologies
